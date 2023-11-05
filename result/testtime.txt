@@ -1,0 +1,90 @@
+quicksort sorted 200:
+0.0ms 0
+0.0ms 0
+0.0ms 0
+0.0ms 0.0
+quicksort sorted 2000:
+2.0108ms 0
+2.0001ms 0
+3.0069ms 0
+2.3393ms 0.0
+quicksort sorted 20000:
+30.0002ms 0
+40.0031ms 0
+39.0005ms 0
+36.3346ms 0.0
+quicksort reversed 200:
+0.0ms 0
+0.0ms 0
+0.0ms 0
+0.0ms 0.0
+quicksort reversed 2000:
+2.0058ms 0
+1.9925ms 0
+1.9994ms 0
+1.9992ms 0.0
+quicksort reversed 20000:
+25.4979ms 0
+37.0054ms 0
+41.002ms 0
+34.5018ms 0.0
+quicksort random 200:
+0.0ms 0
+0.0ms 0
+0.0ms 0
+0.0ms 0.0
+quicksort random 2000:
+1.9963ms 0
+1.9984ms 0
+1.9937ms 0
+1.9961ms 0.0
+quicksort random 20000:
+46.0064ms 0
+45.002ms 0
+42.0017ms 0
+44.3367ms 0.0
+cbis sorted 200:
+0.0ms 0
+0.0ms 0
+0.0ms 0
+0.0ms 0.0
+cbis sorted 2000:
+1.0095ms 0
+1.0076ms 0
+1.0002ms 0
+1.0057ms 0.0
+cbis sorted 20000:
+8.003ms 8192
+7.0004ms 0
+10.9944ms 0
+8.666ms 2730.6667
+cbis reversed 200:
+1.003ms 0
+1.004ms 0
+1.0004ms 0
+1.0025ms 0.0
+cbis reversed 2000:
+137.6779ms 0
+144.006ms 8192
+189.9993ms 32768
+157.2278ms 13653.3333
+cbis reversed 20000:
+14356.9317ms 774144
+16583.0112ms 135168
+15276.1307ms 114688
+15405.3578ms 341333.3333
+cbis random 200:
+0.0ms 0
+1.0006ms 0
+1.0006ms 0
+0.6671ms 0.0
+cbis random 2000:
+104.5079ms 233472
+88.7928ms 49152
+98.9933ms 8192
+97.4313ms 96938.6667
+cbis random 20000:
+7624.2073ms 823296
+10647.995ms 40960
+11014.0007ms 12288
+9762.0676ms 292181.3333
